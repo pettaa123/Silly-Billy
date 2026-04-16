@@ -1,0 +1,19 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Parameterized Adjust Text to Fit Rectangle Test.lvclass:test Adjust Text to Fit Rectangle.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="322"/>
+          <SignalUID value="905"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
