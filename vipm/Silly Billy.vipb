@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-04-16 10:30:44" Modified_Date="2026-04-16 12:19:35" Creator="tupp_js" Comments="" ID="13f80ec52d288c4b6c0eb76ca8b93207">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-04-16 10:30:44" Modified_Date="2026-04-16 13:26:17" Creator="tupp_js" Comments="" ID="e871df806b175665bfb29d087497a0ea">
   <Library_General_Settings>
     <Package_File_Name>Peter_Silly_Billy</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/Silly-Billy</URL>
-      <Release_Notes/>
+      <Release_Notes>Fixed Install Requirements to Windows only</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -177,8 +177,8 @@
       <Windows_7>true</Windows_7>
       <Windows_Vista>true</Windows_Vista>
       <Windows_XP>true</Windows_XP>
-      <Mac_OS>true</Mac_OS>
-      <Linux>true</Linux>
+      <Mac_OS>false</Mac_OS>
+      <Linux>false</Linux>
       <Built_LV_Version>false</Built_LV_Version>
       <Built_LV_Version_or_greater>true</Built_LV_Version_or_greater>
       <Windows_8>true</Windows_8>
