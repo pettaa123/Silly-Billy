@@ -15,5 +15,35 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="Text-Based VI Icon.lvlib:Adjust Text to Fit Rectangle.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="7069"/>
+          <SignalUID value="7051"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="test Adjust Text to Fit Rectangle.lvclass:test Adjust Text to Fit Rectangle.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2372"/>
+          <SignalUID value="2511"/>
+          <SignalUID value="1199"/>
+          <SignalUID value="2495"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
