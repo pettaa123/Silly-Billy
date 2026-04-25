@@ -26,6 +26,20 @@
         <Generic>
           <SignalUID value="7069"/>
           <SignalUID value="7051"/>
+          <SignalUID value="5776"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="test Adjust Text to Fit Rectangle.lvclass:test Adjust Text to Fit Rectangle for Single Line.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2495"/>
         </Generic>
       </Probes>
     </VI>
