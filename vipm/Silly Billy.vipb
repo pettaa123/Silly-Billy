@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-04-16 10:30:44" Modified_Date="2026-04-30 10:56:06" Creator="tupp_js" Comments="" ID="28ed78a9c5e697ba9116411404d93746">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-04-16 10:30:44" Modified_Date="2026-05-07 12:24:24" Creator="tupp_js" Comments="" ID="74842976a7cc2565e2353536fd61e797">
   <Library_General_Settings>
     <Package_File_Name>Peter_Silly_Billy</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter</Packager>
       <URL>https://github.com/pettaa123/Silly-Billy</URL>
-      <Release_Notes>added attributes (at-trib-utes) to exceptions. simplified densest syllable packaging algorithm.</Release_Notes>
+      <Release_Notes>added support for parenthesis e.g. word(U8)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
