@@ -25,7 +25,6 @@
       <Probes>
         <Generic>
           <SignalUID value="7834"/>
-          <SignalUID value="3171"/>
           <SignalUID value="3639"/>
         </Generic>
       </Probes>
