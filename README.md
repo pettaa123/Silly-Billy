@@ -21,7 +21,7 @@ US English dictionary (`hyph_en_US.dic`).
 
 ## Requirements
 
-- LabVIEW 2020 or later (32-bit and 64-bit DLLs are included)
+- LabVIEW 2020 64bit or later
 - Windows only
 
 ## Installation
