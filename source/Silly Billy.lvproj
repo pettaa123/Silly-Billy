@@ -13,6 +13,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="abbreviations creator.vi" Type="VI" URL="../vi.lib/Silly Billy/globals creator/abbreviations creator.vi"/>
 		<Item Name="Silly Billy.lvlib" Type="Library" URL="../vi.lib/Silly Billy/Silly Billy.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
